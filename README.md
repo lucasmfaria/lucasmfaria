@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**lucasmfaria/lucasmfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![data](https://i.imgur.com/AIj9sJf.mp4)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasmfaria)](https://github.com/lucasmfaria)
