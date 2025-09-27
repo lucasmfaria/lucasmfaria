@@ -1,4 +1,4 @@
-![data](https://i.imgur.com/AIj9sJf.mp4)
+![data](https://i.imgur.com/6yK3r9e.jpeg)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasmfaria)](https://github.com/lucasmfaria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-meneghesso-faria)](https://www.linkedin.com/in/lucas-meneghesso-faria)
