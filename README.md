@@ -14,8 +14,8 @@
 
 ## Products
 ### Pam - Friendly AI Teacher
-@teacherpam.ai (Instagram)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/teacherpam.ai)](https://instagram.com/teacherpam.ai)
+**@teacherpam.ai** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/teacherpam.ai)](https://instagram.com/teacherpam.ai)
 
 
-Clin.IA: @clin.iabot (Instagram)
+### Clin.IA
+**@clin.iabot** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/clinia.bot)](https://instagram.com/clinia.bot)
