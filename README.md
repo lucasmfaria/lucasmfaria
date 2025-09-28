@@ -14,10 +14,10 @@
 
 ## Products
 ### Pam - Friendly AI Teacher
-**@teacherpam.ai** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/teacherpam.ai)](https://instagram.com/teacherpam.ai)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5511915604058?text=Hi)](https://wa.me/5511915604058?text=Hi)
+- **@teacherpam.ai** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/teacherpam.ai)](https://instagram.com/teacherpam.ai)
+- Click and talk to Pam: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5511915604058?text=Hi)](https://wa.me/5511915604058?text=Hi)
 
 
 ### Clin.IA
-**@clin.iabot** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/clinia.bot)](https://instagram.com/clinia.bot)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5511973829135?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Clin.IA)](https://wa.me/5511973829135?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Clin.IA)
+- **@clin.iabot** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/clinia.bot)](https://instagram.com/clinia.bot)
+- Click and test for a fictional clinic: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5511973829135?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Clin.IA)](https://wa.me/5511973829135?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Clin.IA)
