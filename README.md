@@ -3,27 +3,36 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lucasmfaria)](https://github.com/lucasmfaria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-meneghesso-faria)](https://www.linkedin.com/in/lucas-meneghesso-faria)
 
-- 🔭 I’m currently working on Itaú Unibanco as a Senior Data Scientist (Largest Financial Institution in Latin America)
+Senior AI Engineer / Data Scientist with a track record of deploying production ML models for major financial institutions (Itaú Unibanco) and building autonomous AI Agents from scratch.
+
+- 🔭 I’m currently working on Itaú Unibanco (Largest Financial Institution in Latin America) as a Senior Data Scientist / AI Engineer
+- 💼 **Portfolio**: https://lmfhubtech.com/ - https://lucasmfaria.github.io/
+- 📝 **Articles**: https://lmfhubtech.com/articles
 - 🌱 I’m currently learning about AI agents, AI Engineering, Machine Learning
 - 💬 Ask me about Data Science, AI, Machine Learning, Automation! 
 - 📫 How to reach me: lucas.meneghesso.faria@gmail.com
 - ⚡ Fun fact: guitar player, nerd, action figures
-- 💼 **Portfolio**: https://lucasmfaria.github.io/
 
-Current Stack: Python, LangChain / LangGraph, n8n, Docker, Cloud (AWS/GCP/Hostinger).
+Current Stack: Python, LangChain / LangGraph, n8n, Docker, Cloud (AWS/GCP/Hostinger), SQL, MongoDB, Git, Linux.
 
-Recent Win: Built and monetized 'Pam', a WhatsApp-based AI English Tutor, handling 200 active users.
+Recent Wins:
+- Built and monetized 'Pam', a WhatsApp-based AI English Tutor, handling 200 active users.
+- Built and monetized 'Clin.IA', an AI-powered clinic assistant that helps clinics serve patients and book appointments.
 
 ## What I know:
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="LangChain" height="30" width="40" src="https://cdn.simpleicons.org/langchain" />
+  <img align="center" alt="LangGraph" height="30" width="40" src="https://cdn.simpleicons.org/langgraph" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="n8n" height="30" width="40" src="https://cdn.simpleicons.org/n8n/FF6D5A" />
+  <img align="center" alt="OpenAI" height="30" width="40" src="https://cdn.simpleicons.org/openai" />
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
 
-##
 
 ## Products
 ### Pam - Friendly AI Teacher
