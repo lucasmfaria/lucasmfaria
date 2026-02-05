@@ -3,12 +3,16 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lucasmfaria)](https://github.com/lucasmfaria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-meneghesso-faria)](https://www.linkedin.com/in/lucas-meneghesso-faria)
 
-- 🔭 I’m currently working on Itaú Unibanco as a Senior Data Scientist
+- 🔭 I’m currently working on Itaú Unibanco as a Senior Data Scientist (Largest Financial Institution in Latin America)
 - 🌱 I’m currently learning about AI agents, AI Engineering, Machine Learning
 - 💬 Ask me about Data Science, AI, Machine Learning, Automation! 
 - 📫 How to reach me: lucas.meneghesso.faria@gmail.com
 - ⚡ Fun fact: guitar player, nerd, action figures
 - 💼 **Portfolio**: https://lucasmfaria.github.io/
+
+Current Stack: Python, LangChain / LangGraph, n8n, Docker, Vector Databases, Cloud (AWS/GCP/Hostinger).
+
+Recent Win: Built and monetized 'Pam', a WhatsApp-based AI English Tutor, handling 200 active users.
 
 ## What I know:
 <div>
