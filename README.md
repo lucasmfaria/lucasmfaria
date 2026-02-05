@@ -10,7 +10,7 @@
 - ⚡ Fun fact: guitar player, nerd, action figures
 - 💼 **Portfolio**: https://lucasmfaria.github.io/
 
-Current Stack: Python, LangChain / LangGraph, n8n, Docker, Vector Databases, Cloud (AWS/GCP/Hostinger).
+Current Stack: Python, LangChain / LangGraph, n8n, Docker, Cloud (AWS/GCP/Hostinger).
 
 Recent Win: Built and monetized 'Pam', a WhatsApp-based AI English Tutor, handling 200 active users.
 
@@ -25,16 +25,13 @@ Recent Win: Built and monetized 'Pam', a WhatsApp-based AI English Tutor, handli
 
 ##
 
-## GitHub stats
-<div>
-  <img height='130cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmfaria&layout=compact&langs_count=16&theme=vue"/>
-</div>
-
 ## Products
 ### Pam - Friendly AI Teacher
-It helps people practice languages within WhatsApp. Understands text and audio. Focus on conversation fluency, writing skills and listening skills.
+Built and monetized 'Pam', a WhatsApp-based AI English Tutor, handling 200 active users.
+She helps people practice languages within WhatsApp. Understands text and audio. Focus on conversation fluency, writing skills and listening skills.
+- Product Page: https://teacherpamai.lmfhubtech.com/
 - **@teacherpam.ai** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/teacherpam.ai)](https://instagram.com/teacherpam.ai)
-- Click and talk to Pam: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5511915604058?text=Hi)](https://wa.me/5511915604058?text=Hi)
+- Click and talk to Pam: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5511995652594?text=Hi)](https://wa.me/5511995652594?text=Hi)
 
 
 ### Clin.IA
