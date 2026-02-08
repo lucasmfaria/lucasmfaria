@@ -92,6 +92,7 @@ An autonomous AI agent that helps people practice languages conversationally. Un
   <a href="https://teacherpamai.lmfhubtech.com/"><img src="https://img.shields.io/badge/Product_Page-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://instagram.com/teacherpam.ai"><img src="https://img.shields.io/badge/@teacherpam.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://wa.me/5511995652594?text=Hi"><img src="https://img.shields.io/badge/Try_Pam-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/lucasmfaria/pam-architecture"><img src="https://img.shields.io/badge/Solution_Architecture-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
